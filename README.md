@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">VibeMap</h3>
+<h3 align="left">VibeMap🥈</h3>
 
 ###
 
