@@ -46,7 +46,7 @@ https://vibemap-app.vercel.app/</p>
 
 ###
 
-<p align="left">Create real world apps that help people <br>Develop my Full Stack Skills<br>Land a Full Stack Internship</p>
+<p align="left">Create real world apps that prioritize the health/wellness industry <br>Develop my Full Stack Skills<br>Land a Full Stack Internship</p>
 
 ###
 
