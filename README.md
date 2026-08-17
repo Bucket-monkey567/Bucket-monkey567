@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data science<br>🎨 Full Stack in training - Back-end, Front-end, DevOps, API development, and the drive to learn more</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data science In University of Calgary<br>🎨 Full Stack in training - Back-end, Front-end, DevOps, API development, and the drive to learn more</p>
 
 ###
 
