@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently taking a bachelor's Data science In University of Calgary<br>🎨 Full Stack - Back-end, Front-end, DevOps, API development, and the drive to learn more</p>
+<p align="left">✨ Creating bugs since 2023
+  <br>
+  🎓Software development graduate at SAIT
+  <br>
+  📚 I'm currently taking a bachelor's in Data science In University of Calgary
+  <br>🎨 Full Stack - Back-end, Front-end, DevOps, API development, and the drive to learn more
+</p>
 
 ###
 
